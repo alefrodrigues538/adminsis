@@ -12,7 +12,7 @@ function About() {
             <Row>
                 <Col>
                     <h1>about</h1>
-                    <a className="btn btn-primary" href="/home">Ir para Home</a>
+                    <a className="btn btn-primary" href="/">Ir para Home</a>
                 </Col>
             </Row>
         </Container>
